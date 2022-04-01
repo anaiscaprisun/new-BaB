@@ -1,17 +1,36 @@
 body{
   font-family: 'Rock 3D', cursive;
-  background-color: #edc596;
+  background-color: whitesmoke;
 }
+
 h1{
+  font-family: 'Rock 3D', cursive;
   text-align:center;
   font-size: 70px;
   color: #e66251;
 }
+
 h2{
   font-size: 40px;
 }
+
 p{
   text-align: center;
   font-size: 40;
   font-family: 'Roboto', sans-serif;
+  color:#589d62;
 }
+
+img {
+  width:400px;
+  height: 341px;
+  object-fit: cover;
+}
+
+.ingredient_title{
+  color:#0984e3
+}
+.Steps_title{
+  color: #e17055;
+}
+
